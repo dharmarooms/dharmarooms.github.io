@@ -3,23 +3,28 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  animation: App-logo-spin infinite 10s linear;
+  padding: 10px;
+  height: 70px;
 }
 
 .App-header {
   background-color: #222;
-  height: 150px;
-  padding: 20px;
+  height: 333px;
+  padding: 18px;
   color: white;
 }
 
 .App-title {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: '100';
   font-size: 1.5em;
 }
 
 .App-intro {
-  font-size: large;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: '100';
+  font-size: 1.0em;
 }
 
 @keyframes App-logo-spin {
