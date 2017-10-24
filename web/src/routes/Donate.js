@@ -66,7 +66,7 @@ class Donate extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <Textfit 
             min={2}
-            max={30}
+            max={25}
             style={header} 
             mode="single"
           >
@@ -96,7 +96,7 @@ class Donate extends Component {
             Намасте 
           </Textfit>
         </header>
-        <iframe title='Донейшн' src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&targets-hint=&default-sum=&button-text=11&payment-type-choice=on&fio=on&hint=&successURL=&quickpay=shop&account=410015631248809" width="325" height="198" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+        <iframe title='Донейшн' src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&targets-hint=&default-sum=&button-text=14&payment-type-choice=on&comment=on&hint=%D0%98%D0%BC%D1%8F%20%D0%BF%D0%BE%20%D0%B6%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8E&successURL=&quickpay=shop&account=410015631248809" width="325" height="270" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
         <Textfit 
           min={8}
           max={20}
