@@ -62,9 +62,9 @@ class Donate extends Component {
             Намасте 
           </Textfit>
         </header>
-        <div style={{ paddingTop: 10 }}>
+        <div style={{ paddingTop: 15 }}>
           <form onSubmit={this.handleSubmit} style={{ borderTopColor: '#ededed', borderTopWidth:1, alignSelf: 'center', fontSize: 20 }}>
-            <select style={{ width: 160 }} value={this.state.value} onChange={this.handleChange}>
+            <select style={{ width: 100 }} value={this.state.value} onChange={this.handleChange}>
               <option value="100">100</option>
               <option value="300">300</option>
               <option value="500">500</option>
@@ -72,8 +72,8 @@ class Donate extends Component {
             </select>
           </form>
         </div>
-        <div style={{ paddingTop: 5 }}>
-          <iframe title='Донейшн' src={`https://money.yandex.ru/quickpay/button-widget?targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&default-sum=${this.state.value}&button-text=11&any-card-payment-type=on&button-size=m&button-color=orange&successURL=&quickpay=small&account=410015631248809&`} width="184" height="36" frameBorder="0" allowTransparency="true" scrolling="no"></iframe>
+        <div style={{ paddingTop: 15 }}>
+          <iframe title='Донейшн' src={`https://money.yandex.ru/quickpay/button-widget?targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&default-sum=${this.state.value}&button-text=11&any-card-payment-type=on&button-size=m&button-color=orange&successURL=&quickpay=small&account=410015631248809&`} width="194" height="36" frameBorder="0" allowTransparency="true" scrolling="no"></iframe>
         </div>
       </div>
     )
