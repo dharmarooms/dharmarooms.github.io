@@ -3,19 +3,26 @@ import logo from '../logo.png'
 import '../App.css'
 import { Textfit } from 'react-textfit'
 import ReactFontFace from 'react-font-face'
-import Button from '../../node_modules/muicss/lib/react/button'
-
+//import Button from '../../node_modules/muicss/lib/react/button'
 
 const donate = 49
 
 class Donate extends Component {
-  handleClick() {
-    window.location.assign('https://www.paypal.me/dharmarooms')
+  constructor() {
+    super()
+    this.state = {
+      value: ''
+    }
+    this.handleChange = this.handleChange.bind(this)
+  }
+
+  handleChange(event) {
+    this.setState({value: event.target.value})
   }
 
   render() {
 
-    const { header, namaste, mission, total, benefit, names, donateButton } = styles
+    const { header, namaste, mission, total } = styles
 
     return (
       <div className="App">
@@ -53,27 +60,18 @@ class Donate extends Component {
             Намасте 
           </Textfit>
         </header>
-        <div style={{ paddingTop: 20 }}>
-          <Button style={donateButton} onClick={this.handleClick}>
-            <i class="fa fa-credit-card"></i> Донейшн
-          </Button>
+        <div style={{ paddingTop: 36 }}>
+          <input
+            style={{height: 30, width: 180, borderColor: 'gray', borderWidth: 1 }}
+            type="tel" pattern="[0-9]*" inputMode="numeric"
+            value={this.state.cost}
+            placeholder=' введите сумму'
+            onChange={this.handleChange} 
+          />
         </div>
-        <Textfit 
-          min={8}
-          max={20}
-          style={benefit}
-          mode="single"
-        >
-          Благотворители:
-        </Textfit>
-        <Textfit 
-          min={8}
-          max={38}
-          style={names} 
-          mode="multi"
-        >
-          Гея Камская
-        </Textfit>
+        <div style={{ paddingTop: 5 }}>
+          <iframe title='Донейшн' src={`https://money.yandex.ru/quickpay/button-widget?targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&default-sum=${this.state.value}&button-text=11&any-card-payment-type=on&button-size=m&button-color=orange&successURL=&quickpay=small&account=410015631248809&`} width="184" height="36" frameBorder="0" allowTransparency="true" scrolling="no"></iframe>
+        </div>
       </div>
     )
   }
@@ -126,9 +124,6 @@ const styles = {
     justifycontent: 'center',
     paddingTop: 15
   },
-  donateButton: {
-    backgroundColor: '#BF813E'
-  }
 }
 
 let fontConfig = {
