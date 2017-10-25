@@ -8,6 +8,9 @@
   height: 70px;
 }
 
+.Select {
+  text-align: center !important;
+}
 .App-header {
   background-color: #222;
   height: 25%;

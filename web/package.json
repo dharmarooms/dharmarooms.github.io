@@ -12,6 +12,7 @@
     "react-router-dom": "^4.2.2",
     "react-router-native": "^4.2.0",
     "react-scripts": "1.0.14",
+    "react-select": "^1.0.0-rc.10",
     "react-springy-parallax": "^1.1.0",
     "react-textfit": "^1.0.1"
   },
