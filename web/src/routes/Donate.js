@@ -62,8 +62,8 @@ class Donate extends Component {
         </header>
         <div style={{ paddingTop: 36 }}>
           <input
-            style={{height: 30, width: 180, borderColor: 'gray', borderWidth: 1 }}
-            type="tel" pattern="[0-9]*" inputMode="numeric"
+            style={{height: 30, width: 160, borderColor: 'gray', borderWidth: 1 }}
+            type="number" pattern="[0-9]*" inputMode="numeric"
             value={this.state.cost}
             placeholder=' введите сумму'
             onChange={this.handleChange} 
