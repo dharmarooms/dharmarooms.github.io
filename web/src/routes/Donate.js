@@ -6,7 +6,6 @@ import ReactFontFace from 'react-font-face'
 //import Button from '../../node_modules/muicss/lib/react/button'
 
 
-const donate = 147
 
 class Donate extends Component {
   constructor(props) {
@@ -22,6 +21,8 @@ class Donate extends Component {
   }
 
   render() {
+
+    const donate = 147
 
     const { header, namaste, mission, total } = styles
     console.log('state', this.state.value)
@@ -51,7 +52,7 @@ class Donate extends Component {
             style={total} 
             mode="single"
           >
-            Всего собрано средств: {donate} р.
+            {[`Всего собрано средств: ${donate} \u20bd`]}
           </Textfit>
           <Textfit 
             min={8}
@@ -65,13 +66,12 @@ class Donate extends Component {
         <div style={{ paddingTop: 15 }}>
           <form onSubmit={this.handleSubmit} style={{ borderTopColor: '#ededed', borderTopWidth:1, alignSelf: 'center', fontSize: 20 }}>
             <select style={{ width: 100 }} value={this.state.value} onChange={this.handleChange}>
-              <option value="100">100</option>
-              <option value="300">300</option>
-              <option value="500">500</option>
-              <option value="1000">1000</option>
-              <option value="1500">1500</option>
-              <option value="3000">3000</option>
-              <option value="5000">5000</option>
+              <option value="100">{'100 \u20bd'}</option>
+              <option value="300">{'300 \u20bd'}</option>
+              <option value="500">{'500 \u20bd'}</option>
+              <option value="1000">{'1000 \u20bd'}</option>
+              <option value="1500">{'1500 \u20bd'}</option>
+              <option value="3000">{'3000 \u20bd'}</option>
             </select>
           </form>
         </div>
