@@ -6,7 +6,7 @@ import ReactFontFace from 'react-font-face'
 //import Button from '../../node_modules/muicss/lib/react/button'
 
 
-const donate = 49
+const donate = 147
 
 class Donate extends Component {
   constructor(props) {
@@ -69,6 +69,9 @@ class Donate extends Component {
               <option value="300">300</option>
               <option value="500">500</option>
               <option value="1000">1000</option>
+              <option value="1500">1500</option>
+              <option value="3000">3000</option>
+              <option value="5000">5000</option>
             </select>
           </form>
         </div>
