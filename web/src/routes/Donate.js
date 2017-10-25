@@ -10,7 +10,7 @@ const donate = 49
 
 class Donate extends Component {
   handleClick() {
-    window.location.assign('https://api.fondy.eu/s/tja9mZ')
+    window.location.assign('https://www.paypal.me/dharmarooms')
   }
 
   render() {
