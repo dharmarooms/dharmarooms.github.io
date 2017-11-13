@@ -76,7 +76,7 @@ class Donate extends Component {
           </form>
         </div>
         <div style={{ paddingTop: 15 }}>
-          <iframe title='Донейшн' src={`https://money.yandex.ru/quickpay/button-widget?targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&default-sum=${this.state.value}&button-text=11&any-card-payment-type=on&button-size=m&button-color=orange&successURL=&quickpay=small&account=410015631248809&`} width="194" height="36" frameBorder="0" allowTransparency="true" scrolling="no"></iframe>
+          <iframe title='Донейшн' src={`https://money.yandex.ru/quickpay/button-widget?targets=%D0%94%D0%BE%D0%BD%D0%B5%D0%B9%D1%88%D0%BD&default-sum=${this.state.value}&button-text=11&any-card-payment-type=on&button-size=m&button-color=orange&successURL=&quickpay=small&account=410014557155872&`} width="194" height="36" frameBorder="0" allowTransparency="true" scrolling="no"></iframe>
         </div>
       </div>
     )
