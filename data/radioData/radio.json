@@ -60,12 +60,6 @@
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Space%20Meditation%20Radio.png?raw=true"
   },
   {
-    "id": 10,
-    "name": "Nirvana Meditation Radio",
-    "url": "http://67.212.168.102:8000/",
-    "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Nirvana%20Meditation%20Radio.png?raw=true"
-  },
-  {
     "id": 11,
     "name": "Manav Dharam Radio Jai Ho",
     "url": "http://smoke.wavestreamer.com:7868/1/stream.mp3",
@@ -76,12 +70,6 @@
     "name": "Kirtan Aradhna",
     "url": "http://streaming.shoutcast.com/KirtanAradhna64K?lang=ru",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Kirtan%20Aradhna.png?raw=true"
-  },
-  {
-    "id": 13,
-    "name": "WooFSpirit",
-    "url": "http://67.212.168.102:8000/",
-    "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/WooFSpirit.png?raw=true"
   },
   {
     "id": 14,
