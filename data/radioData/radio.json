@@ -61,7 +61,7 @@
   },
   {
     "id": 10,
-    // "name": "Nirvana Meditation Radio",
+    "name": "Nirvana Meditation Radio",
     "url": "",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Nirvana%20Meditation%20Radio.png?raw=true"
   },
@@ -79,8 +79,8 @@
   },
   {
     "id": 13,
-    // "name": "WooFSpirit",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "name": "WooFSpirit",
+    "url": "",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/WooFSpirit.png?raw=true"
   },
   {
