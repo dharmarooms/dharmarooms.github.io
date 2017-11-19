@@ -80,7 +80,7 @@
   {
     "id": 13,
     "name": "WooFSpirit",
-    "url": "",
+    "url": "'http://67.212.168.102:8000/;",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/WooFSpirit.png?raw=true"
   },
   {
@@ -92,8 +92,8 @@
   {
     "id": 15,
     "name": "Freedom Yoga Radio",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
-    "img": "http://5.39.71.159:8390/stream"
+    "url": "http://5.39.71.159:8390/stream",
+    "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Freedom%20Yoga%20Radio.png?raw=true"
   },
   {
     "id": 16,
@@ -110,7 +110,7 @@
   {
     "id": 18,
     "name": "Ambient Art Sound",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://67.212.168.102:8000/;",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Art%20Sound.png?raw=true"
   },
   {
