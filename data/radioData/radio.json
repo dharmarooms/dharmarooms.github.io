@@ -2,145 +2,145 @@
   {
     "id": 0,
     "name": "Mantra Radio",
-    "url": "http://83.219.1.77:9200/skfm",
+    "url": "http://s6.radioheart.ru:8012/live",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Mantra%20Radio.png?raw=true"
   },
   {
     "id": 1,
     "name": "Healing Music",
-    "url": "http://83.219.1.77:9200/skfm",
+    "url": "http://94.23.252.14:8047/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Healing%20Music.png?raw=true"
   },
   {
     "id": 2,
     "name": "Chroma Radio Spa",
-    "url": "http://air2.radiorecord.ru:805/rr_128",
+    "url": "http://148.251.184.14:8040/",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Chroma%20Radio%20Spa.png?raw=true"
   },
   {
     "id": 3,
     "name": "Aloha Joe's Relaxation Island",
-    "url": "http://z.101.ru:8000/v11_1",
+    "url": "http://s2.voscast.com:7932/;",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Aloha%20Joe's%20Relaxation%20Island.png?raw=true"
   },
   {
     "id": 4,
     "name": "Best Net Radio",
-    "url": "http://retroserver.streamr.ru:8043/retro128",
+    "url": "http://bigrradio-edge1.cdnstream.com/5167_128",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Best%20Net%20Radio.png?raw=true"
   },
   {
     "id": 5,
     "name": "Radio JP ZEN",
-    "url": "http://pioner.hostingradio.ru:8008/ppr128",
+    "url": "http://6d9a.webradio.upx.net.br:8024/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Radio%20JP%20ZEN.png?raw=true"
   },
   {
     "id": 6,
     "name": "Rouge Zen",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://rouge-zen.ice.infomaniak.ch/rouge-zen-128.mp3",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Rouge%20Zen.png?raw=true"
   },
   {
     "id": 7,
     "name": "Shanti Shanti Radio",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://185.13.37.111:8000/mpd.mp3",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Shanti%20Shanti%20Radio.png?raw=true"
   },
   {
     "id": 8,
     "name": "Radio Caprice Meditation",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://79.120.39.202:9109/",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Radio%20Caprice%20Meditation.png?raw=true"
   },
   {
     "id": 9,
     "name": "Ambient Space Meditation Radio",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://immortalharmony.out.airtime.pro:8000/immortalharmony_a",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Space%20Meditation%20Radio.png?raw=true"
   },
   {
     "id": 10,
-    "name": "Nirvana Meditation Radio",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    // "name": "Nirvana Meditation Radio",
+    "url": "",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Nirvana%20Meditation%20Radio.png?raw=true"
   },
   {
     "id": 11,
     "name": "Manav Dharam Radio Jai Ho",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://smoke.wavestreamer.com:7868/1/stream.mp3",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Manav%20Dharam-Radio%20Jai%20Ho.png?raw=true"
   },
   {
     "id": 12,
     "name": "Kirtan Aradhna",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://streaming.shoutcast.com/KirtanAradhna64K?lang=ru",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Kirtan%20Aradhna.png?raw=true"
   },
   {
     "id": 13,
-    "name": "WooFSpirit",
+    // "name": "WooFSpirit",
     "url": "http://stream.variant.fm:8000/DACHA-192",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/WooFSpirit.png?raw=true"
   },
   {
     "id": 14,
     "name": "Hare Krishna Japa",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://audiokrishna.com/stations/japa2.mp3",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Hare%20Krishna%20Japa.png?raw=true"
   },
   {
     "id": 15,
     "name": "Freedom Yoga Radio",
     "url": "http://stream.variant.fm:8000/DACHA-192",
-    "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Freedom%20Yoga%20Radio.png?raw=true"
+    "img": "http://5.39.71.159:8390/stream"
   },
   {
     "id": 16,
     "name": "Music for Meditation",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://i-radio.info:8050/radio",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Music%20for%20Meditation.png?raw=true"
   },
   {
     "id": 17,
     "name": "Zero Beat Zone",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://zerobeatzone.mrg.fm:8800/stream2",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Zero%20Beat%20Zone.png?raw=true"
   },
   {
     "id": 18,
-    "name": "Ambient Art Sound",
+    //"name": "Ambient Art Sound",
     "url": "http://stream.variant.fm:8000/DACHA-192",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Art%20Sound.png?raw=true"
   },
   {
     "id": 19,
     "name": "Ambient Sleeping Pill",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://radio.stereoscenic.com/asp-h",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Sleeping%20Pill.png?raw=true"
   },
   {
     "id": 20,
-    "name": "a.m. Embient",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "name": "a.m. ambient",
+    "url": "http://radio.stereoscenic.com/ama-h",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/a.m.%20Embient.png?raw=true"
   },
   {
     "id": 21,
     "name": "Miled Music Ambiental",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://192.99.34.205:8079/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Miled%20Music%20Ambiental.png?raw=true"
   },
   {
     "id": 22,
     "name": "Cosmic Waves",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://cosmicwaves.ru:8000/cosmicwaves",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Cosmic%20Waves.png?raw=true"
   },
   {
     "id": 23,
     "name": "OM",
-    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "url": "http://192.99.34.205:8079/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/whitesquare.jpg?raw=true"
   }
 ]
