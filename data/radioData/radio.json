@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Healing Music",
+    "url": "http://83.219.1.77:9200/skfm",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/SKFM.png"
+  },
+  {
+    "id": 2,
+    "name": "Chroma Radio Spa",
+    "url": "http://air2.radiorecord.ru:805/rr_128",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/RecordFM.png"
+  },
+  {
+    "id": 3,
+    "name": "Aloha Joe's Relaxation Island",
+    "url": "http://z.101.ru:8000/v11_1",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/ComedyFM.png"
+  },
+  {
+    "id": 4,
+    "name": "Best Net Radio",
+    "url": "http://retroserver.streamr.ru:8043/retro128",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/RetroFM.png"
+  },
+  {
+    "id": 5,
+    "name": "Radio JP ZEN",
+    "url": "http://pioner.hostingradio.ru:8008/ppr128",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/PioneerFM.png"
+  },
+  {
+    "id": 6,
+    "name": "Rouge Zen",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 7,
+    "name": "Shanti Shanti Radio",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 8,
+    "name": "Radio Caprice Meditation",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 9,
+    "name": "Ambient Space Meditation Radio",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 10,
+    "name": "Nirvana Meditation Radio",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 11,
+    "name": "Manav Dharam-Radio Jai Ho",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 12,
+    "name": "Kirtan Aradhna",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 13,
+    "name": "WooFSpirit",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 14,
+    "name": "Hare Krishna Japa",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 15,
+    "name": "Freedom Yoga Radio",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 16,
+    "name": "Music for Meditation",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 17,
+    "name": "Zero Beat Zone",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 18,
+    "name": "Ambient Art Sound",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 19,
+    "name": "Ambient Sleeping Pill",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 20,
+    "name": "a.m. Embient",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 21,
+    "name": "Miled Music Ambiental",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  },
+  {
+    "id": 22,
+    "name": "Cosmic Waves",
+    "url": "http://stream.variant.fm:8000/DACHA-192",
+    "img": "https://api.backendless.com/F9B3E486-9DA0-E127-FF44-208D03827200/8B9A3030-C8BB-1149-FFCB-26E84A927F00/files/media/iSK/image/DachaFM.png"
+  }
+]
