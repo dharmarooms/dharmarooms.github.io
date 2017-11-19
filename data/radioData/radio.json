@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "name": "Mantra Radio",
+    "name": "Radio Mantra",
     "url": "http://s6.radioheart.ru:8012/live",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Mantra%20Radio.png?raw=true"
   },
@@ -60,73 +60,67 @@
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Space%20Meditation%20Radio.png?raw=true"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Manav Dharam Radio Jai Ho",
     "url": "http://smoke.wavestreamer.com:7868/1/stream.mp3",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Manav%20Dharam-Radio%20Jai%20Ho.png?raw=true"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Kirtan Aradhna",
     "url": "http://streaming.shoutcast.com/KirtanAradhna64K?lang=ru",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Kirtan%20Aradhna.png?raw=true"
   },
   {
-    "id": 14,
+    "id": 12,
     "name": "Hare Krishna Japa",
     "url": "http://audiokrishna.com/stations/japa2.mp3",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Hare%20Krishna%20Japa.png?raw=true"
   },
   {
-    "id": 15,
+    "id": 13,
     "name": "Freedom Yoga Radio",
     "url": "http://5.39.71.159:8390/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Freedom%20Yoga%20Radio.png?raw=true"
   },
   {
-    "id": 16,
+    "id": 14,
     "name": "Music for Meditation",
     "url": "http://i-radio.info:8050/radio",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Music%20for%20Meditation.png?raw=true"
   },
   {
-    "id": 17,
+    "id": 15,
     "name": "Zero Beat Zone",
     "url": "http://zerobeatzone.mrg.fm:8800/stream2",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Zero%20Beat%20Zone.png?raw=true"
   },
   {
-    "id": 18,
-    "name": "Ambient Art Sound",
-    "url": "http://67.212.168.102:8000/;",
-    "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Art%20Sound.png?raw=true"
-  },
-  {
-    "id": 19,
+    "id": 16,
     "name": "Ambient Sleeping Pill",
     "url": "http://radio.stereoscenic.com/asp-h",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Ambient%20Sleeping%20Pill.png?raw=true"
   },
   {
-    "id": 20,
+    "id": 17,
     "name": "a.m. ambient",
     "url": "http://radio.stereoscenic.com/ama-h",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/a.m.%20Embient.png?raw=true"
   },
   {
-    "id": 21,
+    "id": 18,
     "name": "Miled Music Ambiental",
     "url": "http://192.99.34.205:8079/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Miled%20Music%20Ambiental.png?raw=true"
   },
   {
-    "id": 22,
+    "id": 19,
     "name": "Cosmic Waves",
     "url": "http://cosmicwaves.ru:8000/cosmicwaves",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/Cosmic%20Waves.png?raw=true"
   },
   {
-    "id": 23,
+    "id": 20,
     "name": "OM",
     "url": "http://192.99.34.205:8079/stream",
     "img": "https://github.com/dharmarooms/dharmarooms.github.io/blob/master/data/radioData/whitesquare.jpg?raw=true"
